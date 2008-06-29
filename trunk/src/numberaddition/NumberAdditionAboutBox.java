@@ -5,6 +5,7 @@
 package numberaddition;
 
 import org.jdesktop.application.Action;
+import javax.swing.*;
 
 public class NumberAdditionAboutBox extends javax.swing.JDialog {
 
