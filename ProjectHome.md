@@ -1,0 +1,1 @@
+Class Grade project for LTP Java class
